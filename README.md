@@ -5,4 +5,4 @@
 # Subframe-generation-for-image-sequences
 
 We have prototyped a technology based on state-of-the-art deep neural networks allowing to synthesize nonexistent frames in-between the original frames for AutoSlice&View approach with easy extension to other methods such as SpinMill, micro CT, VolumeScope and TEM tomography. 
-This repository present that current approach can be used for slow motion effect generation in ordinary videos.
+This repository is a showcase that current approach can be used for slow motion effect generation in ordinary videos.
