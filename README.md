@@ -1,9 +1,8 @@
-[![Watch the video](https://img.youtube.com/vi/DuxXRWH5Ex0/hqdefault.jpg)](https://www.youtube.com/watch?v=DuxXRWH5Ex0&feature=youtu.be)
 # Original video
+[![Watch the video](https://img.youtube.com/vi/DuxXRWH5Ex0/hqdefault.jpg)](https://www.youtube.com/watch?v=DuxXRWH5Ex0&feature=youtu.be)
 
-
-[![Watch the video](https://img.youtube.com/vi/WXX3vY1GXDk/hqdefault.jpg)](https://youtu.be/WXX3vY1GXDk)
 # slow motion effect x4
+[![Watch the video](https://img.youtube.com/vi/WXX3vY1GXDk/hqdefault.jpg)](https://youtu.be/WXX3vY1GXDk)
 
 
 # Subframe-generation-for-image-sequences
