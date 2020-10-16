@@ -1,4 +1,4 @@
-[![Watch the video]](https://www.youtube.com/watch?v=DuxXRWH5Ex0&feature=youtu.be)
+[![Watch the video](https://img.youtube.com/vi/DuxXRWH5Ex0/hqdefault.jpg)](https://www.youtube.com/watch?v=DuxXRWH5Ex0&feature=youtu.be)
 
 # Subframe-generation-for-image-sequences
 
